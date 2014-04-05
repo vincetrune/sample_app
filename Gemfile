@@ -5,6 +5,8 @@ gem 'rails', '4.0.0'
 
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
+gem 'ZenTest'
+gem 'capybara','1.1.2'
 
 group :development do
 	gem 'rspec-rails', '2.14.1'
